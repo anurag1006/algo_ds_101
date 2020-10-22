@@ -85,7 +85,8 @@
 
 ### HacktoberFest 2020
 
-Just create four PRs , wait till they mature and get limited edition T-shirt or plant a tree.
+Just ccreated 
+our PRs , wait till they mature and get limited edition T-shirt or plant a tree.
 Pleas don't spam
 
 ### How To Commit In CLI
@@ -99,7 +100,7 @@ $ git push -u origin Branch_Name
 
 ```
 
-### How To sync your forked repository
+### How To syncing your forked repository
 
 ```sh
 $ git fetch --all --prune
